@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "htmx.net", "htmx.net.csproj", "{C74DA022-691F-49A5-84F6-FC7088809CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74DA022-691F-49A5-84F6-FC7088809CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74DA022-691F-49A5-84F6-FC7088809CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74DA022-691F-49A5-84F6-FC7088809CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74DA022-691F-49A5-84F6-FC7088809CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ABB1998-469F-4C03-B39A-DBA86F4DFB37}
+	EndGlobalSection
+EndGlobal

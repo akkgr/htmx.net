@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <script src="https://unpkg.com/htmx.org@1.9.5" type="text/javascript"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <title>Htmx .net</title>
+</head>
+
+<body>
+    <div id="tool-bar" hx-get="/toolbar" hx-trigger="load" hx-swap="innerHTML">
+    </div>
+    <div id="urls"></div>
+</body>
+
+</html>
